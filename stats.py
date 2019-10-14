@@ -1,3 +1,4 @@
+
 def variance(data):
     """Returns the population variance of a list (array) of numbers in data.
     
